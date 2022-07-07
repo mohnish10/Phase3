@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="a1" class="com.simplilearn.spring.Address">
+<constructor-arg type="java.lang.string" value="ghaziabad"></constructor-arg>
+<constructor-arg type="java.lang.string" value="UP"></constructor-arg>
+<constructor-arg type="java.lang.string" value="India"></constructor-arg>
+</bean>
+
+<bean id="e" class="com.simplilearn.spring.Employee">
+<constructor-arg type="int" value="12"></constructor-arg>
+<constructor-arg type="java.lang.string" value="Mohnish Pawar"></constructor-arg>
+</bean>
+
+
+
+
+ 
+
+</beans>

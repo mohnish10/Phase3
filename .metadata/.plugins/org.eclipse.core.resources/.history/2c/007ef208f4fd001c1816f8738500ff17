@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="obj" class="com.simplilearn.Event.HelloWorld">
+<property name="message" value="Hello World!"></property>
+</bean>
+
+<bean id="CStartEventHandler" class="com.simplilearn.spring.CStartEventHandler"></bean>
+<bean id="CStopEventHandler" class="com.simplilearn.spring.CStopEventHandler"></bean>
+
+
+
+</beans>

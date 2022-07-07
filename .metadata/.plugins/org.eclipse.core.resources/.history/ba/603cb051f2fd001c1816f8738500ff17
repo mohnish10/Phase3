@@ -1,0 +1,13 @@
+package com.simplilearn.Event;
+
+import org.springframework.context.ApplicationListener;
+
+public class CStopEventHandler implements ApplicationListener<ContextStoppedEvent>
+{
+
+	public void onApplicationEvent(ContextEvent event) {
+
+		
+	}
+
+}

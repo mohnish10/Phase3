@@ -1,0 +1,10 @@
+package com.simplilearn.Event;
+
+public class MainApp {
+public static void main(String[] args)
+{
+ConfigurableApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
+
+}
+
+}
