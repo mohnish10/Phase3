@@ -6,4 +6,20 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationEvent"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationListener"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.ModelMap"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.ResultSetExtractor"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
+    <fullyQualifiedTypeName name="com.ecommerce.entity.EProductEntity"/>
+    <fullyQualifiedTypeName name="com.ecommerce.dao.EProductDao"/>
 </qualifiedTypeNameHistroy>

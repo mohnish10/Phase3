@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Phase3\EventHandlingWeb\src\main\webapp\index.jsp"/>
+			<item value="D:\Phase3\HelloWorld\src\main\java\com\simplilearn\spring\App.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,12 +27,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simplilearn.springjdbc"/>
+			<item value="com.simplilearn.Event"/>
+			<item value="com.simplilearn.ObjectDependency"/>
 			<item value="com.simplilearn.spring"/>
 		</list>
 		<list key="groupId">
 			<item value="com.simplilearn"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringJdbc"/>
+			<item value="EventHandling"/>
+			<item value="ObjectDependency"/>
 			<item value="HelloWorld"/>
 		</list>
 		<list key="projectNameTemplate">
