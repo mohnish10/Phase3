@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Phase3\SpringJdbcCrudExample\src\main\webapp\spring-servlet.xml"/>
+			<item value="D:\Phase3\SpringJdbcCrudExample\src\main\java\com\simplilearn\controller\EmpController.java"/>
 			<item value="D:\Phase3\EventHandlingWeb\src\main\webapp\index.jsp"/>
 			<item value="D:\Phase3\HelloWorld\src\main\java\com\simplilearn\spring\App.java"/>
 		</list>
@@ -27,6 +29,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simplilearn.ConditionalTesting"/>
+			<item value="com.simplilearn.JunitTestingDemo"/>
+			<item value="com.simplilearn.junitTestingdemo"/>
 			<item value="com.simplilearn.springjdbc"/>
 			<item value="com.simplilearn.Event"/>
 			<item value="com.simplilearn.ObjectDependency"/>
@@ -36,6 +41,9 @@
 			<item value="com.simplilearn"/>
 		</list>
 		<list key="artifactId">
+			<item value="ConditionalTesting"/>
+			<item value="JunitTestingDemo"/>
+			<item value="junitTestingdemo"/>
 			<item value="SpringJdbc"/>
 			<item value="EventHandling"/>
 			<item value="ObjectDependency"/>
