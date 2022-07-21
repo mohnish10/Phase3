@@ -29,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simplilearn.JspCoreTagsDemo"/>
 			<item value="com.simplilearn.ConditionalTesting"/>
 			<item value="com.simplilearn.JunitTestingDemo"/>
 			<item value="com.simplilearn.junitTestingdemo"/>
@@ -41,6 +42,7 @@
 			<item value="com.simplilearn"/>
 		</list>
 		<list key="artifactId">
+			<item value="JspCoreTagsDemo"/>
 			<item value="ConditionalTesting"/>
 			<item value="JunitTestingDemo"/>
 			<item value="junitTestingdemo"/>
