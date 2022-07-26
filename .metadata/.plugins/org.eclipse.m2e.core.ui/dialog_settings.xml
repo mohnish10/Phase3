@@ -29,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simplilearn.sportyShoes"/>
 			<item value="com.simplilearn.JspCoreTagsDemo"/>
 			<item value="com.simplilearn.ConditionalTesting"/>
 			<item value="com.simplilearn.JunitTestingDemo"/>
@@ -42,6 +43,7 @@
 			<item value="com.simplilearn"/>
 		</list>
 		<list key="artifactId">
+			<item value="sportyShoes"/>
 			<item value="JspCoreTagsDemo"/>
 			<item value="ConditionalTesting"/>
 			<item value="JunitTestingDemo"/>
@@ -85,5 +87,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91724\Downloads\simplilearnphase3-sportyshoes-main"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
