@@ -2,7 +2,7 @@
 <html>
 <head>
  <%@ page import="java.util.*" %>
-    <%@ page import="com.simplilearn.sportyshoes.*" %>
+    <%@ page import="com.FoodBox.FoodBox.*" %>
    
 <%@include file="./base.jsp" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<%@page import="com.simplilearn.sportyshoes.*"%>
+<%@page import="com.FoodBox.FoodBox.*"%>
 <%@page import="java.util.List"%>
 <%@include file="./base.jsp" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
